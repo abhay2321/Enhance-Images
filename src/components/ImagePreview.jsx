@@ -35,7 +35,7 @@ const ImagePreview = (props) => {
               className="w-full h-full object-cover"
             />
             <div className="absolute bottom-2 left-2 bg-white text-black text-sm font-semibold px-3 py-1 rounded-full shadow">
-            Before (Not any uploaded Image)
+            Before(Not any uploaded Image)
           </div>
           </div>
           )}
@@ -69,7 +69,7 @@ const ImagePreview = (props) => {
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-2 left-2 bg-white text-black text-sm font-semibold px-3 py-1 rounded-full shadow">
-                After (No Enhance of Uploaded Image)
+                After(No Enhance of Uploaded Image)
               </div>
             </div>
           )}
