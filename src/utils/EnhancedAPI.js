@@ -77,14 +77,5 @@ const fetchEnhancedImage = async (taskId) => {
 
 
 
-// // {status: 200, message: 'success', data: {…}}
-// // data
-// // :
-// // {task_id: 'ad049ed5-050c-4eaa-8f60-90c86ae749d1'}
-// // message
-// // :
-// // "success"
-// // status
-// // :
-// // 200
+
 
